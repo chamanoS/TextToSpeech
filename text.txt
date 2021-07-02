@@ -1,0 +1,1 @@
+Shalom friends, Its Chamano here. I just converted text to speech using 9 lines of code in python
