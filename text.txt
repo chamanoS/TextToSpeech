@@ -1,1 +1,1 @@
-Shalom friends, Its Chamano here. I just converted text to speech using 9 lines of code in python
+Welcome to CareerEra,A python project to convert text to speech. This has been submitted by Chamano Ramashia
